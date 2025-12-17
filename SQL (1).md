@@ -204,5 +204,5 @@ Documenting my journey from SQL fundamentals to real-world data projects
 
 📧 Email: datacori00@gmail.com
 
-Blog : 
+Blog : https://blog.naver.com/datacori/224112127773
 
