@@ -1,4 +1,4 @@
-# SQL Fundamentals - 1 (2025-12-17)
+# SQL Fundamentals Study (2025-12-17)
 
 ## Learning Goals
 
