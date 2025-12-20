@@ -1,7 +1,7 @@
 # SQL Fundamentals study (2025-12-20)
 ---
 
-## Learning Goals (2025-12-20)
+## Learning Goals 
 - Relational Algebra
 - Relational Operations: Selection, Projection, Join, Division
 - Set Operations: Union, Intersection, Difference, Cartesian Product
