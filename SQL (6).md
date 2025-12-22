@@ -152,5 +152,5 @@ Documenting SQL fundamentals from basics to practical database administration
 
 📧 Email: datacori00@gmail.com
 
-Blog : 
+Blog : https://blog.naver.com/datacori/224115728599
 
