@@ -72,12 +72,80 @@ Data architecture provides a **high-level blueprint** that aligns data managemen
 
 ---
 
+# Modeling Perspectives & Data Architect Role
+
+## Modeling Perspectives
+
+### 1. Data Perspective (What)
+
+Focuses on **what data exists** in the business.
+
+- What data is related to the business processes?
+- What relationships exist between data entities?
+
+This perspective identifies the **structure and meaning of data** required by the organization.
+
+---
+
+### 2. Process Perspective (How)
+
+Focuses on **how work is performed** and how data is handled.
+
+- How is data processed through business workflows?
+- What actions or tasks need to be performed?
+
+This perspective describes **business processes and data handling logic**.
+
+---
+
+### 3. Interaction Perspective (Data–Process Interaction)
+
+Focuses on the **interaction between data and processes**.
+
+- How does data change depending on how tasks are performed?
+- How do business processes impact data creation, modification, and usage?
+
+This perspective explains **how data and processes influence each other** within real operations.
+
+---
+
+## Role of a Data Architect (DA)
+
+A Data Architect is responsible for aligning **business requirements** with **technical data solutions**.
+
+Key responsibilities include:
+
+- Translating business requirements into technical data requirements
+- Managing and enforcing data standards
+- Designing and visualizing data management frameworks
+- Establishing and maintaining data architecture
+- Providing standard terminology for business operations
+- Sharing strategic and long-term data requirements across teams
+
+---
+
 ## Key Learnings
 
-- Data modeling translates business requirements into structured data designs
-- Clear data models improve communication between technical and non-technical teams
-- Understanding domains, relationships, and attributes is fundamental to database design
-- Data architecture provides the big-picture view of how data supports the organization
+- Data Modeling
+- Modeling Perspectives
+- Data Architecture
+
+---
+
+## Reflections
+
+- Learned that data modeling is a process of creating visual representations to define a system
+- Gained a clearer understanding of the role and responsibilities of a Data Architect
+- Keep going!
+
+---
+
+## Resources
+
+- From Beginner to Practitioner:  
+  *MySQL for Everyone* —  
+  SQL fundamentals, query writing, and performance optimization  
+  (lecture materials .zip)
 
 ---
 
@@ -85,10 +153,11 @@ Data architecture provides a **high-level blueprint** that aligns data managemen
 
 **RYU YEJIN**
 
-Record of learning data analysis
+Record of data analysis learning
 
-from fundamentals to real-world data projects  
+from SQL fundamentals to real-world projects  
 
 📧 Email: datacori00@gmail.com
+
 
 Blog : https://blog.naver.com/datacori/224115758317
